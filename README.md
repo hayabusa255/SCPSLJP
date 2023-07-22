@@ -1,0 +1,2 @@
+# SCPSLJP
+SCPSLの翻訳ファイル
