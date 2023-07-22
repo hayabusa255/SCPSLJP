@@ -1,0 +1,23 @@
+この魂はもう私たちとともにはいない。
+この死体はもう蘇生できない。
+この魂はこれ以上蘇生できない。
+この魂はもう蘇生を望んでいない。
+この死体は蘇生できない。
+この死体はすでに消費された。
+人間の死体だけが捕食可能。
+攻撃クールダウン
+あなたはSCP-049からの復活を否定しました。
+これ以上の復活を拒否するには[key]を押してください。
+ターゲットが見つかりません。
+あなたはすでにフルヘルスです。
+この死体はすでに消費されている。
+Slow and fragile, SCP-049 specializes as an ambush predator, able to quickly turn the tide of a game with hordes of "cured" personnel.
+Fast and dangerous, SCP-049-2 instances swarm ahead of their master to sow panic and chaos, creating new bodies to join the tide.
+Cardiac Attack:You reach out your gloved hand to touch the hearts of those who suffer from the Pestilence, causing their bodily functions to fail rapidly; giving you the chance to administer your cure.
+Good Sense of the Doctor:You shift your full focus to a tainted soul. You move faster, determined to rid them of the Pestilence. You’re able to gauge a victim’s distance using the foul aroma of the disease.
+The Doctor’s Call:You signal your location to your cured personnel. As they stand near you, their bodies toughen up to tolerate more damage. A great doctor always checks up on their patients, after all.
+Waste Not, Want Not:Your medical instincts are not without a need for efficiency; you can revive the cured again and again to provide more insights. It's not every day that the dead rise twice.
+Lobotomized Bloodlust:Your mind was forcefully removed, leaving you with only violence. You find yourself pursuing humans faster and faster as you chase them down …
+Voracity:The cure isn't entirely without benefits. You can regenerate your flesh using the mass of any nearby corpse. There’s no sharing however, so make sure you’re the first to the feast.
+蘇生
+[key]を長押し
